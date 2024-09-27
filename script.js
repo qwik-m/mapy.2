@@ -77,6 +77,8 @@ function updateMarkers() {
 // Načtení CSV souboru z Google Sheets
 const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT5mnhf0b1ivo8e8eFUAtp71M9jTqG3xpl8GLK9KRgwNI-El2sy5LqfDrULStkL7FiOXOXPuWbz4lxZ/pub?output=csv';
 
+let allMarkers = []; // Pro uložení všech markerů pro vyhledávání
+
 Papa.parse(sheetUrl, {
     download: true,
     header: true,
@@ -84,20 +86,15 @@ Papa.parse(sheetUrl, {
         console.log(results.data); // Zobrazí načtená data v konzoli
 
         const points = results.data.map(row => {
-            // Přeskakování prázdných řádků
             if (!row.coords || !row.icon || !row.name) {
-                console.warn("Přeskakuji prázdný řádek nebo chybí důležitá data:", row);
                 return null;
             }
 
-            // Vyčištění souřadnic od mezer a kontrola jejich platnosti
             const coordsArray = cleanCoordinates(row.coords).split(',').map(Number);
             if (coordsArray.length !== 2 || isNaN(coordsArray[0]) || isNaN(coordsArray[1])) {
-                console.error("Neplatné souřadnice:", row.coords);
                 return null;
             }
 
-            // Kontrola, zda je distance číslo, pokud ne, nastavíme výchozí hodnotu
             const distance = isNaN(Number(row.distance)) ? 'Neznámá' : row.distance;
 
             return {
@@ -109,16 +106,49 @@ Papa.parse(sheetUrl, {
             };
         }).filter(point => point !== null);
 
-        // Vytvoření markerů z dat v CSV
         markers = points.map(point => {
             const marker = L.marker(point.coords, { icon: point.icon });
             marker.bindPopup(`<b>${point.name}</b><br>Vzdálenost: ${point.distance}`);
             return { marker, minZoom: point.minZoom };
         });
 
-        // Spuštění funkce na začátku a při změně zoomu
+        allMarkers = points.map(point => ({
+            coords: point.coords,
+            name: point.name,
+            marker: L.marker(point.coords, { icon: point.icon })
+        }));
+
         map.on('zoomend', updateMarkers);
-        updateMarkers(); // Zajistí zobrazení markerů při načtení mapy
+        updateMarkers();
     }
 });
 
+// Funkce pro vyhledávání
+function searchMarkers(query) {
+    const searchResults = document.getElementById('search-results');
+    searchResults.innerHTML = '';
+    searchResults.style.display = 'none';
+
+    if (query.length === 0) return;
+
+    const filteredMarkers = allMarkers.filter(marker => marker.name.toLowerCase().includes(query.toLowerCase()));
+
+    if (filteredMarkers.length > 0) {
+        searchResults.style.display = 'block';
+        filteredMarkers.forEach(marker => {
+            const resultItem = document.createElement('div');
+            resultItem.textContent = marker.name;
+            resultItem.addEventListener('click', () => {
+                map.setView(marker.coords, 16);
+                marker.marker.openPopup();
+                searchResults.style.display = 'none';
+            });
+            searchResults.appendChild(resultItem);
+        });
+    }
+}
+
+// Event listener pro změny v searchbaru
+document.getElementById('search-input').addEventListener('input', function (e) {
+    searchMarkers(e.target.value);
+});

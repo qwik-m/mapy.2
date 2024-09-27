@@ -1,0 +1,940 @@
+086150110397  732101.842   965083.391   326.496  40237 40048                /3/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200402/Jan Prošek/Hrdlička spol. s r.o.
+086150110398  732105.183   965083.463   327.132  10085 10119                /3/1/Sním.poč.náprav//20200402/Jan Prošek/Hrdlička spol. s r.o.
+086150110411  732101.982   965084.897   327.233  10164 10187 40048          /3/1/Náv.stož.podst.,Zab.míst.ved.//20200402/Jan Prošek/Hrdlička spol. s r.o.
+086150110451  732100.877   965449.866   338.498  10085 10119                /3/1/Sním.poč.náprav//20200402/Jan Prošek/Hrdlička spol. s r.o.
+086150110920  733114.008   964922.997   319.296  10163 10187 40048          /2/1/Náv.trp.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110927  733114.641   964920.434   319.568  10085 10119                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110937  733060.041   964897.747   319.450  10123 40048                /2/1/Mech.závor-pr.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110944  733055.293   964896.426   319.355  60050                      /2/1/Střed předm.mal.rozs.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110945  733058.060   964912.098   319.788  60050                      /2/1/Střed předm.mal.rozs.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110954  733053.086   964911.329   320.193  10123                      /2/1/Mech.závor-pr.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110982  733042.159   964895.030   319.241  10163 10187 40048          /2/1/Náv.trp.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150110983  733037.608   964896.372   319.548  10085 10187                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111009  732944.142   964886.258   319.538  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111017  732945.770   964883.621   319.578  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111034  732904.645   964886.415   319.498  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111042  732904.174   964888.862   319.641  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111044  732904.651   964891.143   319.405  10281 10187 40050          /2/1/Náv.2řad.trp(2a2)sv.,Zab.míst.ved.v ochr.prv.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111051  732904.455   964893.352   319.566  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111053  732891.815   964881.090   319.314  40235 40048                /2/1/Kab.rozv.zab.ved.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111059  733398.875   965144.372   319.218  10123                      /2/1/Mech.závor-pr.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111070  733408.711   965151.610   319.128  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111080  733407.121   965137.693   318.783  10123 40048                /2/1/Mech.závor-pr.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111089  733409.109   965137.741   318.865  40235 40048 40106          /2/1/Kab.rozv.zab.ved.,Zab.míst.ved.,Sděl.ved.-MKmetal.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111110  733412.299   965146.524   318.874  10085 10119                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111124  732235.086   964884.370   319.749  10085 10119                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111126  732233.685   964881.931   319.501  10163 40048 10187          /2/1/Náv.trp.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111129  732245.167   964878.163   319.462  10126 40048                /2/1/Výstr.PZS akt.sig.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111138  732256.639   964880.329   319.467  10126 10123 40048 40022    /2/1/Výstr.PZS akt.sig.,Mech.závor-pr.,Zab.míst.ved.,Podz.sil.ved.NN//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111153  732263.188   964884.525   319.557  10085 10119                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111168  732245.145   964902.929   320.628  10126 40048                /2/1/Výstr.PZS akt.sig.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111169  732233.641   964908.850   320.858  10126 10123 40022          /2/1/Výstr.PZS akt.sig.,Mech.závor-pr.,Podz.sil.ved.NN//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111181  732232.016   964903.276   320.766  10085 10119                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111191  732293.937   964885.611   319.471  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111210  732345.065   964889.749   319.456  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111225  732344.938   964893.795   319.462  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111231  732366.735   964894.036   319.176  40235 40048                /2/1/Kab.rozv.zab.ved.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111232  732421.513   964890.608   319.184  40235 40048 40106          /2/1/Kab.rozv.zab.ved.,Zab.míst.ved.,Sděl.ved.-MKmetal.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111241  732419.212   964888.190   319.507  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111242  732419.202   964883.067   319.562  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111258  732419.453   964880.688   319.466  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111260  732419.608   964885.415   319.535  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111267  732447.215   964899.434   319.386  10085                      /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111274  732447.154   964901.314   319.461  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111278  732449.086   964902.622   319.223  10112 40048                /2/1/Zámek,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111279  732448.669   964902.450   319.177  40173 40106                /2/1/Žel.tel.,Sděl.ved.-MKmetal.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111714  730818.769   964762.848   329.112  10206                      /2/1/Vzdál.upoz.vjezd.4pruh//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111738  730889.492   964738.076   328.230  10205                      /2/1/Vzdál.upoz.vjezd.3pruh//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111741  730900.733   964738.989   329.074  40048                      /2/1/Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111742  730901.312   964738.604   329.064  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111743  730902.996   964739.813   329.005  10085 10119                /2/1/Sním.poč.náprav//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150111751  730955.472   964700.131   328.845  10204                      /2/1/Vzdál.upoz.vjezd.2pruh//20200317/Jan Prošek/Hrdlička spol. s r.o.
+086150112274  734084.150   965110.261   315.352  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112275  734084.158   965110.285   315.796  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112276  734084.593   965110.354   315.800  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112277  734084.615   965110.330   315.426  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112278  734084.505   965111.016   315.301  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112279  734084.503   965110.958   315.788  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112280  734084.091   965110.894   315.794  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112281  734084.054   965110.939   315.293  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112282  734084.328   965110.642   315.804  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112283  734084.618   965110.700   314.981  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112284  734084.754   965110.889   314.995  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112285  734084.575   965111.268   314.921  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112286  734083.005   965111.019   314.971  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112287  734079.857   965110.445   315.012  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112288  734077.289   965112.840   315.231  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112293  734158.646   965123.281   315.192  10203                      /2/1/Vzdál.upoz.vjezd.1pruh//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112294  734233.323   965134.578   315.176  10204                      /2/1/Vzdál.upoz.vjezd.2pruh//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112295  734305.020   965135.449   315.380  10205                      /2/1/Vzdál.upoz.vjezd.3pruh//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112458  732002.401   964863.250   320.519  40050 40048 40022 40106 40229  /2/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112463  731958.153   964855.333   322.111  10085 10119                /2/1/Sním.poč.náprav//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112465  731959.108   964852.663   321.454  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112466  731959.058   964852.551   320.907  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112467  731959.612   964851.021   320.752  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112468  731959.795   964849.753   321.920  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112470  731960.098   964848.823   321.998  40048 40022 40106 40229    /2/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112472  731939.193   964844.231   321.880  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112476  731931.572   964840.353   322.672  40022 40048 40106 40229    /2/1/Podz.sil.ved.NN,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112477  731929.362   964838.925   322.930  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112478  731930.592   964840.184   322.809  40022 40048 40106 40229    /2/1/Podz.sil.ved.NN,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112480  731933.619   964842.535   321.891  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112481  731933.594   964842.772   321.901  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112482  731928.901   964841.600   322.735  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112490  731928.300   964843.714   321.082  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112491  731927.932   964845.091   321.125  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112492  731927.746   964845.906   320.990  40048 40204                /2/1/Zab.míst.ved.,Chrán.podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112493  731926.955   964848.926   321.059  40048 40204                /2/1/Zab.míst.ved.,Chrán.podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112494  731926.535   964851.411   321.671  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112495  731928.757   964852.389   322.001  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112496  731930.681   964853.184   321.905  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112497  731931.096   964853.262   322.550  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112498  731931.057   964853.223   322.652  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112499  731930.472   964853.078   322.647  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112500  731930.425   964853.087   322.555  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112501  731930.557   964852.627   322.318  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112502  731930.560   964852.668   322.648  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112503  731931.151   964852.803   322.650  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112504  731931.178   964852.797   322.384  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112505  731930.794   964852.948   322.660  10126 40048                /2/1/Výstr.PZS akt.sig.,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112506  731933.530   964843.028   322.621  10126 40048                /2/1/Výstr.PZS akt.sig.,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112507  731939.053   964844.469   322.498  10126 40048                /2/1/Výstr.PZS akt.sig.,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112508  731938.701   964844.603   322.279  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112509  731938.742   964844.586   322.490  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112510  731939.291   964844.739   322.496  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112511  731939.337   964844.782   322.371  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112512  731939.450   964844.328   322.343  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112513  731939.415   964844.335   322.492  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112514  731938.820   964844.173   322.495  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112515  731938.814   964844.137   322.262  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112516  731933.257   964842.720   322.547  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112517  731933.302   964842.756   322.622  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112518  731933.862   964842.946   322.620  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112519  731933.904   964842.914   322.418  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112520  731933.770   964843.335   322.410  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112521  731933.745   964843.306   322.618  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112522  731933.191   964843.157   322.621  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112523  731933.129   964843.154   322.510  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112527  731914.390   964843.893   322.414  10085 10119                /2/1/Sním.poč.náprav//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112529  731915.005   964841.586   322.290  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112530  731914.692   964839.961   322.030  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112531  731915.172   964840.074   322.000  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112532  731915.129   964840.025   322.698  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112533  731914.724   964839.934   322.693  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112534  731914.843   964839.322   322.703  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112535  731914.816   964839.281   322.573  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112536  731915.289   964839.383   322.650  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112537  731915.248   964839.388   322.704  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112538  731914.975   964839.686   322.710  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112539  731915.045   964841.516   321.499  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112540  731914.690   964839.694   321.779  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112541  731914.524   964840.016   321.501  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112542  731915.404   964840.149   321.565  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112543  731915.819   964839.774   321.881  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112544  731916.268   964838.183   323.022  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112545  731916.532   964837.477   323.280  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112549  731900.633   964832.979   323.902  40106                      /2/1/Sděl.ved.-MKmetal.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112550  731900.637   964832.990   324.402  40173 40106                /2/1/Žel.tel.,Sděl.ved.-MKmetal.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112552  731922.383   964838.469   323.397  40106 40048 40022 40229    /2/1/Sděl.ved.-MKmetal.,Zab.míst.ved.,Podz.sil.ved.NN,Trubka HDP-podz.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112553  731923.116   964837.743   323.367  40048 40106 40022          /2/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112554  731922.285   964837.941   323.862  40173                      /2/1/Žel.tel.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112555  731921.968   964837.851   323.839  40016                      /2/1/Kabel.skříň sil.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112556  731921.697   964837.343   323.927  40224                      /2/1/Kab.obj.neurč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112557  731924.652   964838.153   323.909  40224                      /2/1/Kab.obj.neurč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112558  731925.184   964836.104   323.890  40224                      /2/1/Kab.obj.neurč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112559  731928.408   964838.270   323.165  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112560  731924.938   964837.105   323.546  40048                      /2/1/Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112579  731020.790   964662.986   328.416  10203                      /2/1/Vzdál.upoz.vjezd.1pruh//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112583  731089.492   964630.959   328.241  10164 10187 40048          /2/1/Náv.stož.podst.,Zab.míst.ved.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112584  731089.779   964631.116   328.053  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112585  731089.746   964631.090   328.238  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112586  731089.339   964631.215   328.246  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112587  731089.317   964631.258   328.051  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112588  731089.109   964630.623   327.901  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112589  731089.146   964630.645   328.254  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112590  731089.540   964630.519   328.251  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150112591  731089.523   964630.408   327.880  20001                      /2/1/Sokl bez urč.//20200327/Jan Prošek/Hrdlička spol. s r.o.
+086150113948  733115.682   964918.133   319.749  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113949  733110.336   964920.648   319.443  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113951  733110.997   964920.980   319.499  10113 10119                /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113952  733044.713   964898.192   319.321  10110                      /2/1/Výkol.s náv.těl.levo.//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113955  733044.983   964896.461   319.486  10113 10119                /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113959  733041.465   964903.593   319.496  10113                      /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113963  732998.387   964897.728   319.520  10113                      /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113964  732420.076   964888.166   319.455  40237 40048                /2/1/Kab.obj.ZZ kolečko,Zab.míst.ved.//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113968  732352.355   964883.301   319.419  10113                      /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113971  732338.343   964891.433   319.436  10113                      /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150113973  732278.263   964882.881   319.453  10113                      /2/1/Přestavník//20200507/Jan Prošek/Hrdlička spol. s r.o.
+086150120838  732605.313   964879.456   318.593  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120839  732605.248   964880.847   318.111  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120840  732605.224   964882.459   318.116  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120841  732605.195   964885.709   318.367  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120842  732605.270   964887.375   318.371  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120843  732605.603   964889.414   319.034  40204 40050 40048 40106 40229  /3/1/Chrán.podz.,Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120844  732612.803   964889.448   318.897  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120845  732621.778   964889.475   318.713  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120846  732632.405   964889.512   318.824  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120847  732641.977   964889.697   318.806  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120848  732648.926   964889.792   318.957  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120849  732655.188   964889.832   318.868  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120850  732664.016   964889.897   318.871  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120851  732673.567   964889.656   318.889  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120852  732682.701   964889.594   318.868  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120853  732691.246   964889.761   318.894  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120854  732699.158   964889.945   318.787  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120855  732708.673   964889.925   318.822  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120856  732719.999   964889.938   318.823  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120857  732728.075   964890.046   318.843  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120858  732738.831   964889.943   318.804  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120859  732747.097   964889.604   318.736  40204 40048 40050 40106 40229  /3/1/Chrán.podz.,Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120860  732747.306   964888.309   318.360  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120861  732747.292   964886.698   318.365  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120862  732747.325   964883.327   318.124  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120863  732747.342   964881.710   318.108  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120864  732747.690   964880.401   318.329  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120865  732749.106   964880.043   318.701  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120866  732758.766   964880.067   318.382  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120867  732768.961   964880.130   318.529  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120868  732781.937   964880.287   318.611  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120869  732796.304   964880.163   318.557  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120870  732808.574   964880.303   318.528  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120871  732823.252   964880.521   318.584  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120872  732834.699   964880.557   318.577  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120873  732846.123   964880.803   318.593  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120874  732857.255   964880.713   318.597  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120875  732866.596   964880.621   318.682  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120876  732876.122   964880.801   318.610  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120877  732885.160   964881.003   318.717  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120878  732892.423   964880.950   318.690  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120879  732892.765   964881.437   318.895  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120880  732892.711   964882.695   318.155  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120881  732892.705   964884.307   318.141  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120882  732892.618   964885.502   318.473  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120883  732892.801   964885.790   318.844  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120884  732899.148   964885.878   318.823  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120885  732904.203   964886.299   318.884  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120887  732892.713   964887.807   318.289  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120888  732892.682   964889.391   318.284  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120889  732892.673   964890.136   318.611  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120890  732892.653   964890.830   318.910  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120891  732900.347   964880.977   318.719  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120892  732910.793   964881.474   318.738  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120893  732921.551   964881.783   318.781  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120894  732931.523   964882.468   318.650  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120895  732941.876   964882.917   318.618  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120896  732945.288   964883.066   318.658  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120897  732945.423   964883.485   318.860  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120900  732946.223   964883.026   318.685  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120901  732955.050   964883.722   318.747  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120902  732965.253   964884.519   318.768  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120903  732970.221   964885.143   318.912  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120904  732976.033   964886.283   318.820  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120905  732981.321   964887.101   318.836  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120906  732982.208   964887.673   318.905  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120907  732991.365   964889.145   318.976  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120908  732997.898   964890.603   318.991  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120909  733006.760   964892.332   318.857  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120910  733014.200   964893.884   318.635  40204 40106 40229 40048    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120911  733016.662   964894.443   318.807  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120916  733043.391   964900.011   318.895  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120917  733043.282   964901.248   318.201  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120918  733042.993   964902.839   318.191  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120919  733042.342   964905.459   318.546  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120920  733035.601   964903.869   318.604  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120921  733029.205   964902.721   318.660  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120922  733027.700   964901.610   318.783  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120923  733026.723   964901.467   318.813  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120924  733024.101   964901.573   318.831  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120925  733015.247   964900.808   318.804  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120926  733005.401   964899.871   318.736  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120927  732999.409   964899.228   319.084  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120928  732998.538   964898.941   318.944  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120930  733043.738   964898.685   318.162  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120931  733044.206   964897.137   318.188  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120932  733044.932   964894.797   318.723  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120933  733045.619   964894.394   318.796  40050 40048 40229 40106 40204  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120934  733051.955   964896.792   318.797  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120935  733056.249   964898.024   318.905  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120936  733060.663   964899.260   318.927  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120937  733068.911   964901.750   318.719  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120938  733077.848   964904.581   318.719  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120939  733085.207   964906.925   318.746  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120940  733091.899   964909.415   318.771  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120941  733099.639   964911.878   318.691  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120942  733101.811   964912.782   318.717  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120943  733111.716   964916.148   318.713  40050 40229 40106          /3/1/Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120944  733116.072   964917.344   318.476  40050 40048 40106 40229 40204  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120945  733116.230   964917.602   318.918  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120946  733115.492   964919.772   318.234  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120947  733114.954   964921.304   318.169  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120948  733114.319   964923.240   318.791  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120949  733123.710   964920.445   318.397  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120950  733133.104   964924.199   318.339  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120951  733142.944   964928.627   318.272  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120952  733152.261   964932.997   318.144  40050 40106 40229          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120953  733158.177   964935.732   318.330  40048 40050 40106 40229    /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120954  733164.865   964939.216   318.386  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120955  733166.477   964940.352   318.607  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120956  733167.704   964941.522   318.990  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120957  733171.491   964943.520   319.026  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120958  733172.581   964943.371   318.428  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120959  733173.612   964943.861   318.091  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120960  733180.317   964947.328   317.941  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120961  733186.851   964951.095   317.850  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120962  733193.966   964955.304   317.824  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120963  733200.379   964959.313   317.988  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120964  733205.497   964962.452   317.700  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120965  733211.262   964966.135   318.242  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120966  733219.055   964971.246   318.651  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120967  733227.952   964978.032   318.665  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120968  733234.764   964982.502   318.682  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120969  733235.913   964983.305   318.774  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120970  733239.711   964986.185   318.780  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120971  733245.035   964990.584   318.654  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120972  733247.184   964991.882   318.813  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120973  733248.958   964993.596   318.626  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120974  733251.162   964995.458   317.758  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120975  733253.532   964997.311   318.644  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120976  733259.671   965002.349   318.898  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120977  733263.512   965005.960   318.996  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120978  733270.038   965011.406   319.113  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120979  733275.704   965016.640   319.348  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120980  733280.637   965021.759   318.938  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120981  733283.977   965024.881   318.761  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120982  733288.012   965028.702   318.913  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120983  733290.066   965030.462   318.781  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120984  733298.798   965038.688   319.193  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120985  733305.255   965045.132   319.407  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120986  733312.074   965051.644   319.496  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120987  733319.294   965058.344   319.621  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120988  733326.032   965064.596   319.538  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120989  733331.324   965069.693   319.436  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120990  733332.749   965071.743   319.330  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120991  733338.919   965077.655   319.162  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120992  733345.476   965084.030   318.895  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120993  733352.811   965090.945   318.954  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120994  733356.522   965094.259   319.032  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120995  733357.610   965095.519   318.938  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120996  733360.894   965098.185   319.248  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120997  733363.251   965101.195   318.933  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120998  733368.261   965106.291   318.562  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150120999  733370.288   965106.916   319.245  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121000  733371.608   965107.789   319.534  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121001  733375.734   965111.508   319.634  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121002  733382.260   965116.776   319.518  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121003  733389.424   965122.862   318.975  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121004  733394.288   965127.177   318.738  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121005  733401.548   965132.343   318.794  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121006  733403.720   965133.883   318.002  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121007  733406.620   965136.427   318.093  40048 40106 40229 40204    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.,Chrán.podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121008  733408.408   965137.835   318.307  40204 40048 40229 40106    /3/1/Chrán.podz.,Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121009  733412.978   965141.276   318.133  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121010  733418.435   965144.979   317.960  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121011  733424.700   965148.994   317.953  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121012  733428.611   965151.432   317.819  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121013  733432.834   965153.653   317.872  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121014  733438.942   965156.645   317.859  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121015  733443.901   965159.016   317.772  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121016  733450.872   965162.880   317.537  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121017  733457.116   965166.016   317.209  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121018  733465.184   965169.488   317.046  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121019  733470.581   965171.516   316.713  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121020  733477.388   965174.258   316.439  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121021  733482.268   965175.598   316.222  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121022  733483.424   965176.544   315.936  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121023  733485.204   965179.355   316.492  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121024  733493.600   965182.871   316.694  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121025  733501.114   965185.504   316.577  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121026  733508.111   965187.752   316.631  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121027  733515.840   965190.069   316.537  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121028  733522.015   965191.958   316.830  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121029  733531.681   965194.200   316.644  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121030  733539.411   965195.724   316.588  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121031  733541.835   965195.852   316.475  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121032  733544.425   965196.595   316.549  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121033  733555.181   965198.792   316.546  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121034  733560.604   965200.171   316.553  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121035  733569.066   965201.261   316.343  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121036  733573.145   965202.011   316.557  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121037  733579.063   965202.642   316.524  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121038  733583.999   965202.315   316.119  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121039  733586.384   965201.966   315.963  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121040  733594.021   965202.283   315.920  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121041  733601.283   965202.909   316.255  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121042  733610.582   965203.402   316.094  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121043  733620.608   965203.370   316.142  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121044  733625.819   965203.505   316.183  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121045  733631.514   965203.554   316.162  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121046  733639.497   965202.919   315.910  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121047  733646.151   965202.251   315.936  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121048  733654.790   965201.812   315.925  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121049  733662.117   965200.744   315.896  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121050  733670.717   965199.659   315.902  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121051  733680.177   965197.933   315.989  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121052  733688.718   965196.545   315.899  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121053  733696.077   965195.448   316.041  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121054  733699.160   965195.175   316.523  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121055  733701.563   965195.707   316.451  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121056  733702.840   965197.051   316.198  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121057  733703.284   965198.582   316.338  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121058  733704.106   965201.578   316.138  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121059  733704.665   965203.312   316.252  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121060  733706.186   965203.347   316.191  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121061  733715.514   965200.771   316.305  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121062  733724.514   965198.254   316.146  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121063  733733.172   965195.568   316.241  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121064  733739.645   965193.500   316.232  40048                      /3/1/Zab.míst.ved.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121097  732447.220   964888.095   318.677  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121098  732438.164   964888.033   318.673  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121099  732433.364   964887.951   318.682  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121100  732429.695   964889.272   318.551  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20150930/Stejskal/Hrdlička spol. s r.o.
+086150121105  732257.352   964889.341   318.780  40204 40048 40106 40022 40229  /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121106  732241.843   964889.641   318.740  40204 40048 40106 40022 40229  /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121111  732211.592   964879.994   318.971  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121112  732199.491   964879.991   318.883  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121113  732190.018   964879.922   318.871  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121114  732182.550   964879.976   318.492  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121115  732173.545   964879.886   318.601  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121116  732166.881   964879.958   318.907  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121117  732163.526   964879.862   318.962  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121118  732154.410   964879.700   318.854  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121119  732146.198   964879.587   318.787  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121120  732137.754   964879.314   318.683  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121121  732133.482   964879.822   318.838  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121122  732126.771   964879.510   319.056  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121123  732119.207   964879.272   318.896  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121124  732114.213   964879.198   319.104  40050 40048 40022 40106 40229  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121125  732086.447   964877.038   319.218  40048 40050 40022 40106 40229  /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121126  732081.627   964876.342   319.105  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121127  732079.946   964875.644   319.088  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121128  732077.782   964876.030   319.310  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121129  732069.017   964874.979   319.739  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121130  732060.492   964873.800   319.839  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121131  732050.345   964872.534   320.068  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121132  732043.120   964871.153   320.109  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121133  732040.370   964871.113   320.103  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121134  732035.944   964870.097   320.279  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121135  732028.227   964868.668   320.240  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121136  732024.132   964867.994   319.992  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121137  732018.067   964866.557   320.140  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151006/Stejskal/Hrdlička spol. s r.o.
+086150121477  730940.192   964709.007   328.158  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121480  730946.573   964705.021   328.314  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121483  730947.139   964705.339   328.150  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121489  730963.244   964695.957   328.015  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121492  730970.884   964691.569   328.006  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121495  730978.315   964687.355   327.937  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121498  730984.456   964683.748   327.944  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121501  730989.257   964680.927   328.010  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121504  730995.300   964677.505   327.998  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121507  730996.143   964677.043   327.918  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121510  730998.176   964676.072   327.933  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121513  730999.436   964675.657   327.860  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121516  731006.146   964671.808   327.767  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121519  731013.353   964667.850   327.761  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121522  731018.899   964664.791   327.675  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121525  731022.380   964662.491   327.515  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121528  731025.685   964660.306   327.137  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121531  731028.193   964658.850   326.996  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121534  731028.902   964658.443   327.076  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121537  731029.452   964658.673   327.351  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121540  731032.966   964656.633   327.060  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121543  731035.551   964655.152   327.125  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121546  731038.824   964653.618   327.097  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121549  731045.520   964650.264   327.105  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121552  731049.908   964647.965   327.141  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121555  731051.044   964647.618   327.205  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121558  731056.118   964645.165   327.164  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121561  731059.271   964643.579   327.143  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121564  731059.954   964642.175   327.140  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121567  731062.184   964641.611   327.033  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121570  731064.930   964640.341   327.085  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121573  731067.289   964639.523   327.437  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121576  731069.613   964638.547   327.368  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121579  731074.197   964636.994   327.118  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121582  731079.509   964634.869   327.563  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121585  731083.294   964633.938   327.248  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121588  731085.924   964632.958   327.371  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121591  731088.963   964632.093   327.241  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121594  731092.612   964630.739   327.240  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121597  731098.114   964629.129   327.264  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121600  731104.108   964627.660   327.268  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121603  731107.844   964626.859   327.436  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121606  731110.016   964626.603   327.469  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121609  731116.598   964624.814   327.437  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121611  731122.555   964623.749   327.185  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121614  731125.622   964622.939   327.321  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121617  731131.383   964622.019   327.372  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121620  731136.875   964621.347   327.293  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121623  731143.464   964620.192   327.136  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121626  731150.782   964619.569   327.189  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121629  731156.287   964619.145   327.064  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121632  731165.584   964618.791   326.999  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121635  731168.186   964618.797   327.103  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121638  731170.294   964619.032   327.075  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121644  731173.451   964618.841   327.078  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121647  731181.987   964619.038   327.069  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121650  731188.751   964619.234   326.933  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121653  731196.893   964619.703   326.899  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121656  731204.944   964620.318   326.816  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121659  731208.315   964620.464   326.875  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121662  731211.052   964621.137   326.814  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121665  731217.868   964622.112   326.684  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121668  731219.437   964622.391   326.690  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121671  731224.837   964623.153   326.798  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121674  731227.406   964623.797   326.597  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121677  731233.247   964624.863   326.545  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121680  731238.122   964626.009   326.574  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121683  731245.733   964627.480   326.485  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121686  731251.638   964628.706   326.334  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121688  731254.501   964629.369   326.290  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121691  731257.327   964630.721   326.409  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121694  731259.520   964631.535   326.189  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121697  731265.548   964633.397   326.138  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121700  731271.588   964635.261   325.921  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121703  731278.494   964637.742   325.782  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121706  731286.328   964640.606   325.682  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121709  731292.033   964643.007   325.573  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121712  731295.016   964644.146   325.546  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121715  731299.591   964645.850   325.359  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121718  731305.352   964647.825   325.427  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121721  731312.074   964650.707   325.304  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121724  731316.924   964652.969   325.247  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121727  731320.928   964654.619   325.325  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121730  731324.149   964656.057   325.553  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121733  731324.957   964656.018   325.646  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121736  731325.457   964656.370   325.496  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121739  731325.663   964656.738   325.235  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121742  731327.846   964656.892   325.141  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121745  731331.566   964656.039   323.908  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121748  731332.867   964655.954   323.497  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121751  731335.658   964656.635   323.485  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121754  731337.941   964657.625   323.535  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121757  731340.150   964658.332   323.506  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121760  731342.325   964660.062   323.874  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121763  731343.819   964660.262   323.875  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121766  731346.530   964660.820   323.529  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121769  731348.038   964661.723   323.690  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121772  731354.576   964664.243   323.163  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121775  731361.421   964666.598   322.671  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121778  731364.093   964667.119   322.518  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121781  731367.077   964668.199   322.355  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121784  731368.496   964669.224   322.015  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121787  731372.683   964670.637   321.482  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121790  731375.140   964671.611   321.479  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121793  731377.337   964671.710   321.317  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121796  731379.022   964671.549   321.213  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121799  731382.291   964672.588   320.104  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121802  731387.644   964674.829   320.045  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121805  731389.828   964675.856   320.031  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121808  731391.467   964677.124   320.136  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121811  731394.010   964677.581   319.981  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121814  731405.362   964682.355   319.942  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121817  731415.834   964686.678   320.068  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121820  731420.795   964688.479   320.665  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150121823  731422.833   964689.660   321.234  40048                      /3/1/Zab.míst.ved.//20151015/Stejskal/Hrdlička spol. s r.o.
+086150122209  730899.736   964732.288   327.333  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122210  730905.332   964729.381   327.510  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122211  730907.916   964728.145   327.572  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122212  730919.680   964720.821   328.054  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122213  730921.844   964719.316   328.050  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122215  730928.136   964716.088   328.043  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122216  730932.362   964713.726   328.075  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150122217  730934.390   964712.030   328.293  40048                      /3/1/Zab.míst.ved.//20151102/Stejskal/Hrdlička spol. s r.o.
+086150123132  731805.318   964807.587   324.758  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123133  731801.465   964805.769   324.606  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123134  731796.262   964803.871   324.542  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123135  731787.098   964801.417   324.972  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123136  731782.258   964800.160   324.765  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123137  731775.533   964798.588   324.714  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123138  731765.896   964796.129   324.694  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123139  731761.627   964795.102   324.770  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123140  731756.011   964794.614   324.561  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123141  731745.876   964792.053   324.554  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123142  731739.450   964790.180   324.624  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123143  731730.683   964788.165   324.486  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123144  731721.772   964786.402   324.106  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123145  731712.574   964784.488   323.954  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123146  731706.406   964782.665   324.020  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123147  731698.815   964780.458   323.933  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123148  731689.951   964778.193   323.962  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123149  731681.583   964776.198   323.743  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123150  731675.096   964774.971   323.344  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123151  731670.952   964774.201   322.898  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123152  731666.759   964773.875   322.420  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123153  731661.735   964772.739   322.109  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123154  731659.026   964772.379   321.933  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123155  731656.979   964773.266   322.625  40050 40048                /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123156  731655.877   964773.408   323.374  40050                      /3/1/Zab.míst.ved.v ochr.prv.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123157  731653.881   964773.138   323.411  40050                      /3/1/Zab.míst.ved.v ochr.prv.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123158  731650.124   964772.016   323.329  40050                      /3/1/Zab.míst.ved.v ochr.prv.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123159  731649.293   964771.359   323.126  40048 40050                /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123160  731646.137   964770.082   322.673  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123161  731638.642   964768.145   322.750  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123162  731630.596   964766.234   322.794  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123163  731625.920   964764.844   322.993  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123164  731617.884   964762.815   322.955  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123165  731613.370   964761.452   322.876  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123166  731608.113   964760.228   322.926  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123167  731601.668   964758.689   323.051  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123168  731594.444   964756.370   322.923  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123169  731589.572   964754.676   323.035  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123170  731583.031   964752.931   323.392  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123171  731575.626   964751.168   323.189  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123172  731569.806   964749.824   323.100  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123173  731562.029   964748.099   323.444  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123174  731558.490   964747.603   323.775  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123175  731554.754   964746.377   323.793  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123176  731551.740   964745.496   324.191  40050 40048 40204 40233    /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Chrán.podz.,Chrán.nadz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123177  731543.860   964743.174   324.285  40050 40233                /3/1/Zab.míst.ved.v ochr.prv.,Chrán.nadz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123178  731542.570   964742.686   324.051  40050 40233                /3/1/Zab.míst.ved.v ochr.prv.,Chrán.nadz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123179  731541.128   964742.132   323.781  40048 40050 40233          /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Chrán.nadz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123180  731538.566   964740.924   323.432  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123181  731532.169   964739.002   323.674  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123182  731526.650   964737.053   323.694  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123183  731524.496   964735.545   323.291  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123184  731521.592   964733.781   323.594  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123185  731519.310   964732.940   323.787  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123186  731514.860   964730.903   324.238  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123187  731809.762   964808.756   324.939  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123188  731816.623   964809.854   324.983  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123189  731821.821   964810.648   324.840  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123190  731827.855   964812.038   324.934  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123191  731838.673   964814.291   324.791  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123192  731844.980   964815.955   324.814  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123193  731850.955   964817.863   324.482  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123194  731854.893   964819.703   324.218  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123195  731861.354   964821.457   324.165  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123196  731869.572   964823.210   324.165  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123197  731874.749   964824.735   324.036  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123198  731882.242   964826.553   324.203  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123199  731889.097   964828.927   323.974  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123200  731895.601   964831.197   323.809  40048                      /3/1/Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123201  731900.614   964832.909   323.485  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123202  731907.238   964834.524   323.293  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123203  731914.505   964836.485   322.983  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123204  731921.077   964838.064   323.000  40106 40048                /3/1/Sděl.ved.-MKmetal.,Zab.míst.ved.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123205  731934.108   964841.082   321.165  40048 40204 40022 40106 40229  /3/1/Zab.míst.ved.,Chrán.podz.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123206  731939.744   964842.663   320.776  40048 40204 40022 40106 40229  /3/1/Zab.míst.ved.,Chrán.podz.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123207  731945.555   964844.639   322.201  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123208  731952.011   964846.629   321.681  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123209  731960.273   964848.863   321.639  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123210  731968.209   964851.046   321.318  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123211  731976.071   964853.377   321.337  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123212  731984.757   964855.395   321.025  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123213  731989.797   964856.540   320.697  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123214  731992.378   964856.671   320.821  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123215  731995.673   964858.554   320.783  40048 40050 40022 40106 40229  /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123216  731997.911   964860.465   320.858  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123217  732000.202   964862.455   320.941  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151109/Stejskal/Hrdlička spol. s r.o.
+086150123660  731505.409   964726.296   324.476  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123661  731492.723   964719.923   324.677  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123662  731484.508   964716.283   324.913  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123663  731472.082   964711.341   324.670  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123664  731460.878   964707.352   324.556  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123665  731450.403   964703.493   324.290  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123666  731443.411   964700.325   323.818  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123667  731437.705   964697.609   323.254  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123668  731430.678   964694.006   322.296  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123669  731425.142   964691.134   321.509  40069 40048                /3/1/Kab.spoj.ZZ průb.,Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123670  731424.302   964690.590   321.435  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150123671  731423.624   964690.100   321.400  40048                      /3/1/Zab.míst.ved.//20151112/Stejskal/Hrdlička spol. s r.o.
+086150124573  732413.000   964890.197   318.576  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124574  732402.850   964890.048   318.649  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124575  732394.897   964889.007   318.593  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124576  732382.810   964888.201   318.497  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124577  732372.004   964887.989   318.655  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124578  732368.368   964887.737   318.977  40050 40048 40106 40022 40229  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124579  732367.888   964888.214   318.975  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124580  732367.488   964890.029   318.253  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124581  732367.291   964891.628   318.254  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124583  732365.775   964893.117   318.646  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124584  732363.556   964892.869   318.862  40050 40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124585  732356.482   964892.733   318.840  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124586  732348.766   964892.396   318.855  40050 40106 40022 40229    /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124587  732340.808   964892.641   318.864  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124588  732337.593   964892.710   318.854  40048 40050 40022 40106 40229  /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124589  732330.090   964892.370   318.902  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124590  732321.146   964892.063   318.983  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124591  732308.716   964892.211   319.001  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124592  732298.976   964892.688   319.220  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124593  732292.662   964892.632   319.176  40069 40050 40022 40106 40229  /3/1/Kab.spoj.ZZ průb.,Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124594  732285.736   964892.797   319.083  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124595  732279.114   964893.334   319.330  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124596  732276.925   964894.282   319.476  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124597  732268.733   964895.561   319.505  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124598  732262.688   964896.591   319.588  40050 40048 40106 40022 40229  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124599  732261.719   964896.653   319.514  40048 40106 40022 40229    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124600  732261.370   964896.377   319.614  40048 40106 40022 40229    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124601  732260.823   964895.283   318.953  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124602  732260.490   964893.706   319.019  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124603  732259.973   964891.880   319.347  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124604  732259.133   964890.425   319.024  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124605  732259.002   964889.602   318.935  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124606  732258.287   964889.414   318.687  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124607  732257.917   964889.396   318.584  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124608  732259.207   964887.744   318.885  40048 40204 40022          /3/1/Zab.míst.ved.,Chrán.podz.,Podz.sil.ved.NN//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124609  732259.235   964885.212   318.405  40048 40204 40022          /3/1/Zab.míst.ved.,Chrán.podz.,Podz.sil.ved.NN//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124610  732259.240   964883.565   318.409  40048 40204 40022          /3/1/Zab.míst.ved.,Chrán.podz.,Podz.sil.ved.NN//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124611  732259.119   964881.048   318.542  40048 40204 40022          /3/1/Zab.míst.ved.,Chrán.podz.,Podz.sil.ved.NN//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124612  732259.076   964880.191   318.687  40048 40022                /3/1/Zab.míst.ved.,Podz.sil.ved.NN//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124613  732261.684   964881.230   318.728  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124614  732268.009   964881.210   318.651  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124615  732274.222   964881.288   318.751  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124616  732277.816   964881.247   318.897  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124618  732241.490   964889.641   318.987  40204 40048 40050 40106 40022 40229  /3/1/Chrán.podz.,Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124619  732240.392   964890.295   319.258  40050 40022 40106          /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124620  732237.634   964890.976   319.322  40050 40022 40106          /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124621  732234.160   964891.879   319.324  40050 40022 40106          /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124622  732230.872   964892.950   319.190  40050 40022 40106          /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124623  732229.939   964893.010   319.156  40050 40106                /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124624  732229.925   964894.058   319.689  40224                      /3/1/Kab.obj.neurč.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124626  732226.994   964891.922   319.599  40224                      /3/1/Kab.obj.neurč.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124627  732229.953   964891.943   319.782  40224                      /3/1/Kab.obj.neurč.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124632  732241.693   964887.814   319.074  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124633  732241.570   964886.728   319.008  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124634  732241.706   964885.109   318.514  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124635  732241.790   964883.500   318.518  40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124636  732241.830   964880.606   318.936  40050 40048 40106 40204 40022 40229  /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124637  732241.024   964880.272   318.891  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124638  732234.581   964880.333   319.219  40050 40022 40106 40229    /3/1/Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124639  732230.495   964880.296   319.342  40048 40050 40022 40106 40229  /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20151216/Stejskal/Hrdlička spol. s r.o.
+086150124833  733043.353   964893.823   318.540  40204 40048 40229 40106    /3/1/Chrán.podz.,Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124834  733042.202   964893.285   318.348  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124835  733041.761   964893.214   318.429  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124836  733041.442   964893.736   318.481  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124837  733040.926   964896.310   318.183  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124838  733040.530   964897.876   318.161  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124839  733040.261   964899.223   318.438  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124840  733039.885   964899.410   318.375  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124841  733038.718   964899.095   318.405  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124842  733035.546   964898.333   318.622  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124843  733029.964   964897.244   318.624  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124844  733023.041   964895.893   318.668  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20160201/Stejskal/Hrdlička spol. s r.o.
+086150124906  731002.023   964674.167   327.975  40069 40048                /3/1/Kab.spoj.ZZ průb.,Zab.míst.ved.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124907  730987.475   964681.940   328.028  40048                      /3/1/Zab.míst.ved.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124910  730971.952   964690.840   327.986  40048                      /3/1/Zab.míst.ved.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124917  730900.174   964738.883   328.811  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124918  730899.756   964738.621   328.131  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124919  730899.114   964737.455   327.827  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124920  730898.384   964736.029   327.774  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150124921  730897.120   964733.657   327.362  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160210/Stejskal/Hrdlička spol. s r.o.
+086150125768  732230.071   964900.716   319.733  40048 40106 40204 40022    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125769  732230.985   964902.701   319.644  40048 40106 40204 40022    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125770  732231.623   964904.203   319.568  40048 40106 40204 40022    /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125772  732229.861   964908.024   319.762  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125773  732228.132   964908.923   319.811  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125774  732221.794   964911.616   319.795  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125775  732216.001   964914.342   319.689  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125776  732212.286   964915.997   319.848  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125777  732205.269   964919.905   320.055  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125778  732200.672   964922.061   320.334  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125779  732194.636   964926.228   320.401  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125780  732190.868   964928.471   320.842  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125781  732183.721   964934.135   321.100  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125782  732176.921   964939.544   321.267  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125783  732170.012   964945.718   321.474  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125784  732165.694   964950.081   321.619  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125785  732161.500   964954.420   321.902  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125786  732156.430   964960.649   321.875  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125787  732153.036   964964.261   321.998  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125788  732148.172   964970.403   322.233  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125789  732146.375   964972.949   321.894  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125790  732143.922   964976.238   322.417  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125791  732142.415   964978.772   322.371  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125792  732140.254   964981.552   322.587  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125793  732138.333   964984.684   322.634  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125794  732136.427   964986.481   322.600  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125795  732135.088   964987.764   322.844  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125796  732133.207   964991.035   322.998  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125797  732130.637   964995.391   323.182  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125798  732128.033   965000.206   323.281  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125799  732123.909   965008.393   323.602  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125800  732120.676   965016.555   323.919  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125801  732118.065   965023.763   324.062  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125802  732115.849   965031.129   324.208  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125803  732113.681   965039.128   324.526  40050 40048 40106 40204    /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125804  732112.187   965045.491   324.614  40050 40106                /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125805  732111.918   965047.562   324.574  40048 40050 40106          /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125806  732110.379   965054.027   324.827  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125807  732109.361   965061.026   325.267  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125808  732108.382   965069.488   325.496  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125809  732107.914   965074.608   325.824  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125810  732107.709   965077.230   326.062  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125811  732106.211   965077.054   325.631  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125812  732104.604   965076.961   325.805  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125813  732103.241   965076.858   325.657  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125814  732102.164   965077.887   325.813  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125816  732100.841   965087.675   326.167  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125817  732101.061   965089.779   325.961  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125818  732100.606   965092.816   326.487  40048 40106 40204          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125820  732099.956   965104.519   328.654  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125821  732099.453   965114.839   329.538  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125822  732099.802   965121.185   329.513  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125823  732099.211   965127.917   330.083  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125824  732099.176   965144.839   330.604  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125825  732099.249   965156.505   330.971  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125826  732098.904   965161.926   330.540  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125827  732098.927   965169.128   330.797  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125828  732098.667   965181.727   331.503  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125829  732099.266   965194.744   331.041  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125830  732099.166   965205.217   331.710  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125831  732099.467   965213.131   330.999  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125832  732098.432   965221.545   332.373  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125833  732097.867   965233.465   332.990  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125834  732097.864   965246.641   333.102  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125835  732098.167   965257.256   333.298  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125836  732096.627   965266.897   334.282  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125837  732096.869   965275.353   334.630  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125838  732096.898   965283.510   334.480  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125839  732096.966   965291.038   334.834  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125840  732097.249   965299.373   334.771  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125841  732097.559   965307.698   334.315  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125842  732097.716   965312.570   333.972  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125843  732098.001   965316.425   333.933  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125844  732098.132   965317.628   334.003  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125845  732098.699   965324.924   334.050  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125846  732099.082   965326.745   333.678  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125847  732099.415   965327.422   333.633  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125848  732099.457   965330.461   333.910  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125849  732099.354   965331.283   333.619  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125850  732099.269   965336.803   333.623  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125851  732099.189   965340.080   333.796  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125852  732099.284   965346.266   334.175  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125853  732099.338   965352.937   334.490  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125854  732099.098   965359.102   334.513  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125855  732098.815   965365.556   334.380  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125856  732099.957   965370.753   336.222  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125857  732099.846   965375.433   336.560  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125858  732098.626   965381.050   334.979  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125859  732098.674   965383.727   335.110  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125860  732099.143   965384.853   335.614  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125861  732099.461   965385.603   336.006  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125862  732099.407   965389.150   336.051  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125863  732098.588   965391.269   335.294  40048 40204                /3/1/Zab.míst.ved.,Chrán.podz.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125864  732098.450   965395.508   335.459  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125865  732098.494   965400.549   335.582  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125866  732098.308   965408.222   335.812  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125867  732098.223   965414.128   335.971  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125868  732098.280   965420.560   336.205  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125869  732097.616   965428.762   336.328  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125870  732097.526   965435.744   336.501  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125871  732097.332   965439.940   336.665  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125872  732097.385   965444.174   336.722  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125873  732097.629   965449.938   337.175  40048                      /3/1/Zab.míst.ved.//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125877  732104.164   965384.993   336.501  10188                      /3/1/Staničník-skut.poloha//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125880  732105.002   965299.712   334.223  10188                      /3/1/Staničník-skut.poloha//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125903  732229.859   964899.783   319.551  40048 40050 40106 40022    /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125904  732230.097   964897.494   319.329  40050 40106 40022          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125905  732230.317   964894.685   319.102  40050 40106 40022          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125906  732230.320   964893.308   319.170  40050 40106 40022          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150125907  732229.968   964893.123   319.365  40050 40106 40022          /3/1/Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.,Podz.sil.ved.NN//20160321/Stejskal/Hrdlička spol. s r.o.
+086150132211  734074.450   965112.557   314.684  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132212  734067.768   965112.245   314.671  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132213  734059.601   965111.225   314.842  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132214  734050.532   965110.008   314.924  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132215  734043.471   965109.338   315.070  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132216  734034.721   965108.783   315.059  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132217  734024.506   965108.351   315.094  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132218  734015.560   965108.671   315.185  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132219  734007.847   965108.943   315.346  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132220  733998.709   965109.075   315.490  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132221  733991.262   965109.432   315.586  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132222  733984.021   965110.317   315.658  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132223  733980.803   965111.009   315.746  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132224  733976.403   965112.726   315.874  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132225  733974.535   965113.369   316.047  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132226  733971.213   965113.916   316.197  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132227  733969.892   965114.821   316.420  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132228  733963.766   965114.809   316.375  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132229  733959.564   965113.374   316.771  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132233  733957.408   965112.366   316.226  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132234  733956.969   965112.467   316.290  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150132235  733951.051   965113.735   316.336  40048                      /3/1/Zab.míst.ved.//20160808/Stejskal/Hrdlička spol. s r.o.
+086150133161  733943.552   965115.302   316.238  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133162  733934.598   965117.304   316.138  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133163  733925.397   965119.676   316.288  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133164  733914.058   965122.974   316.249  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133165  733905.210   965125.770   316.206  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133166  733896.425   965128.626   316.149  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133167  733887.375   965131.765   316.293  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133168  733878.267   965135.100   316.433  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133169  733869.795   965138.459   316.426  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133170  733860.554   965142.249   316.484  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133171  733852.120   965145.665   316.533  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133172  733843.302   965149.555   316.584  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133173  733835.326   965153.227   316.809  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133174  733826.898   965157.205   316.727  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133175  733821.668   965159.814   316.547  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133176  733817.091   965161.745   316.866  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133177  733809.837   965164.873   316.991  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133178  733802.261   965168.239   316.853  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133179  733793.641   965172.142   316.570  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133180  733782.850   965176.954   316.586  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133181  733775.943   965179.864   316.440  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133182  733767.853   965182.974   316.611  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133183  733759.249   965186.488   316.482  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133184  733750.842   965189.768   316.454  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150133185  733741.308   965193.002   316.417  40048                      /3/1/Zab.míst.ved.//20160921/Stejskal/Hrdlička spol. s r.o.
+086150160001  733060.419   964895.942   318.416  40106                      /3/1/Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160002  733060.047   964896.407   318.479  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160003  733060.302   964896.350   318.475  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160004  733059.635   964897.502   318.631  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160005  733059.051   964898.841   318.858  40050 40048 40229 40106    /3/1/Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160006  733044.328   964896.148   318.863  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160007  733044.739   964894.914   318.680  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160008  733044.981   964894.467   318.632  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160009  733045.026   964894.279   318.575  40048 40229 40106          /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160011  733042.626   964893.548   318.597  40204 40048 40229 40106    /3/1/Chrán.podz.,Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160012  733042.352   964895.071   318.988  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160013  733041.285   964894.629   318.765  40048 40229 40106 40204    /3/1/Zab.míst.ved.,Trubka HDP-podz.,Sděl.ved.-MKmetal.,Chrán.podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160014  733038.165   964893.980   319.075  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160015  733040.712   964903.753   318.847  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160016  733040.637   964904.167   318.872  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160017  733040.546   964905.020   318.622  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160018  733110.272   964920.924   318.855  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160019  733109.832   964921.975   318.687  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160020  733112.072   964922.753   318.724  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160021  733113.711   964923.284   318.688  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160022  733113.957   964922.940   318.681  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160023  733113.985   964923.057   318.672  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160025  733115.695   964918.054   318.814  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160026  733115.883   964917.481   318.747  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160027  733115.970   964917.309   318.733  40048 40050 40229 40106    /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Trubka HDP-podz.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160028  733337.660   965076.428   319.332  40069                      /3/1/Kab.spoj.ZZ průb.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160029  733407.933   965136.823   318.214  40106 40048                /3/1/Sděl.ved.-MKmetal.,Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160030  733408.131   965137.060   318.229  40106 40048                /3/1/Sděl.ved.-MKmetal.,Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160031  733407.833   965137.386   318.159  40204 40106 40048 40229    /3/1/Chrán.podz.,Sděl.ved.-MKmetal.,Zab.míst.ved.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160033  733408.995   965138.023   318.243  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160034  733408.858   965138.175   318.162  40048 40106 40229          /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160035  733407.346   965137.938   318.203  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160036  733410.349   965139.332   318.178  40204 40048 40050 40106    /3/1/Chrán.podz.,Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160037  733409.484   965141.010   316.992  40204 40050 40106          /3/1/Chrán.podz.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160038  733406.073   965146.389   317.194  40204 40050 40106          /3/1/Chrán.podz.,Zab.míst.ved.v ochr.prv.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160039  733404.481   965148.360   318.588  40204 40050 40048 40106    /3/1/Chrán.podz.,Zab.míst.ved.v ochr.prv.,Zab.míst.ved.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160040  733408.610   965152.452   318.411  40048 40106                /3/1/Zab.míst.ved.,Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160041  733409.114   965151.868   318.205  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160042  733412.784   965155.545   318.522  40106                      /3/1/Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160043  733417.963   965158.154   318.289  40106                      /3/1/Sděl.ved.-MKmetal.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160045  732997.561   964898.990   318.926  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160046  732997.714   964897.939   318.872  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160047  732944.412   964883.513   318.908  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160048  732944.396   964883.055   318.919  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160049  732891.866   964880.985   318.851  40204 40048 40106 40229    /3/1/Chrán.podz.,Zab.míst.ved.,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160050  732903.410   964886.242   318.854  40204 40048                /3/1/Chrán.podz.,Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160051  732903.375   964886.358   318.840  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160052  732904.882   964891.171   319.065  40050                      /3/1/Zab.míst.ved.v ochr.prv.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160053  732904.882   964891.396   319.077  40048 40050 40204          /3/1/Zab.míst.ved.,Zab.míst.ved.v ochr.prv.,Chrán.podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160054  732899.958   964891.204   319.070  40050 40204                /3/1/Zab.míst.ved.v ochr.prv.,Chrán.podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160055  732892.685   964891.020   319.059  40204 40050 40048          /3/1/Chrán.podz.,Zab.míst.ved.v ochr.prv.,Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160057  732447.568   964902.859   318.334  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160058  732234.546   964887.690   318.950  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160059  732235.134   964889.710   319.235  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160060  732235.567   964891.130   319.288  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160061  732014.474   964865.947   320.134  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160062  732012.818   964865.122   319.860  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160063  732009.526   964864.471   320.015  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160064  732006.486   964864.278   320.279  40048 40022 40106 40229    /3/1/Zab.míst.ved.,Podz.sil.ved.NN,Sděl.ved.-MKmetal.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160065  731922.022   964838.344   323.004  40106 40048 40229          /3/1/Sděl.ved.-MKmetal.,Zab.míst.ved.,Trubka HDP-podz.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160069  731089.095   964630.946   327.569  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160070  731089.235   964632.025   327.442  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.
+086150160071  731033.529   964656.150   327.116  40048                      /3/1/Zab.míst.ved.//20200506/Lukáčeková/Hrdlička spol s r.o.

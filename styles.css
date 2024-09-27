@@ -7,3 +7,19 @@ html, body {
     width: 100%;
     height: 100%;
 }
+
+/* Styl pro vyhledávací výsledky */
+.search-results {
+    position: absolute;
+    width: 300px;
+    max-height: 150px;
+    overflow-y: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: none;
+    z-index: 1001;
+    font-family: Arial, sans-serif; /* Styl písma */
+    font-size: 14px; /* Velikost písma */
+    color: #333; /* Barva textu */
+}

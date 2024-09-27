@@ -1,0 +1,86 @@
+// Definice souřadnicových systémů
+const S_JTSK = "+proj=krovak +lat_0=49.5 +lon_0=24.83333333333333 +k=0.9999 +x_0=0 +y_0=0 +ellps=bessel +towgs84=570.69,85.69,462.84,4.99821,1.58676,5.2611,3.56 +units=m +no_defs";
+const WGS84 = "+proj=longlat +datum=WGS84 +no_defs";
+
+// Funkce pro převod souřadnic z S-JTSK na WGS84
+function SJTSKtoWGS84(x, y) {
+    const [lon, lat] = proj4(S_JTSK, WGS84, [x, y]);
+    return [lat.toFixed(7), lon.toFixed(7)];
+}
+
+// Funkce pro čtení dat z data.txt
+function processDataFromText(text) {
+    const lines = text.split('\n');
+    const processedData = lines.map(line => {
+        // Rozdělení řádku na jednotlivé části
+        const parts = line.trim().split(/\s+/);
+        const x = parseFloat(parts[1]);
+        const y = parseFloat(parts[2]);
+
+        // Převedení X a Y souřadnic na WGS84
+        const [lat, lon] = SJTSKtoWGS84(x, y);
+
+        // Kontrola typu záznamu (např. Sním.poč.náprav)
+        let name = '', icon = '';
+        if (line.includes('Sním.poč.náprav')) {
+            name = 'PN';
+            icon = 'PN';
+        } else if (line.includes('Náv.stož.podst')) {
+            name = 'návěstidlo';
+            icon = 'návěstidlo';
+        }
+        // Další podmínky pro další typy záznamů...
+
+        // Zápis do objektu
+        return {
+            name: name,
+            coords: `${lat},${lon}`,
+            icon: icon,
+            distance: 'XXX',  // Vždy "XXX"
+            minZoom: 15       // Vždy 15
+        };
+    });
+    return processedData;
+}
+
+// Funkce pro zápis do místního souboru data.xlsx
+function writeToExcel(processedData) {
+    const filePath = './data.xlsx';  // Cesta k souboru
+
+    // Načtení existujícího souboru, nebo vytvoření nového
+    let workbook;
+    if (fs.existsSync(filePath)) {
+        workbook = XLSX.readFile(filePath);  // Načti existující soubor
+    } else {
+        workbook = XLSX.utils.book_new();  // Vytvoř nový workbook
+    }
+
+    // Načti nebo vytvoř nový list s názvem 'Data'
+    let worksheet = workbook.Sheets['Data'];
+    if (!worksheet) {
+        worksheet = XLSX.utils.aoa_to_sheet([['Name', 'Coordinates', 'Icon', 'Distance', 'MinZoom']]); // Hlavička
+        XLSX.utils.book_append_sheet(workbook, worksheet, 'Data'); // Přidej nový list
+    }
+
+    // Konvertuj processedData na formát pole objektů (JSON)
+    const dataToAppend = processedData.map(data => [data.name, data.coords, data.icon, data.distance, data.minZoom]);
+
+    // Přidej nová data na konec existujících dat
+    XLSX.utils.sheet_add_aoa(worksheet, dataToAppend, { origin: -1 });
+
+    // Ulož soubor zpět do XLSX
+    XLSX.writeFile(workbook, filePath);
+    console.log(`Úspěšně zapsáno do souboru ${filePath}`);
+}
+
+// Čtení a zpracování dat z souboru data.txt
+fetch('data.txt')
+    .then(response => response.text())
+    .then(text => {
+        const processedData = processDataFromText(text);
+        console.log(processedData);  // Zobrazení zpracovaných dat
+
+        // Zápis do místního Excel souboru
+        writeToExcel(processedData);
+    })
+    .catch(error => console.error('Chyba při načítání souboru:', error));
