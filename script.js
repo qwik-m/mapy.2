@@ -8,15 +8,15 @@ const thunderforestLayer = L.tileLayer('https://{s}.tile.thunderforest.com/trans
 }).addTo(map);
 
 // Definice ikon
-const přejezd = L.icon({ iconUrl: 'přejezd bez závor.png', iconSize: [25, 25], iconAnchor: [12, 25], popupAnchor: [1, -34] });
-const přejezdZ = L.icon({ iconUrl: 'přejezd se závorami.png', iconSize: [25, 25], iconAnchor: [18, 45], popupAnchor: [1, -34] });
-const KS = L.icon({ iconUrl: 'kabelová skříň.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
-const Návěstidlo = L.icon({ iconUrl: 'návěstidlo.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
-const Domky = L.icon({ iconUrl: 'domek.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
-const PN = L.icon({ iconUrl: 'PN.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
-const Přejezdník = L.icon({ iconUrl: 'přejezdník.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
-const Výhybka = L.icon({ iconUrl: 'výhybka.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
-const Trpaslík = L.icon({ iconUrl: 'trpaslík.png', iconSize: [25, 25], iconAnchor: [12, 41], popupAnchor: [1, -34] });
+const přejezd = L.icon({ iconUrl: 'přejezd bez závor.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const přejezdZ = L.icon({ iconUrl: 'přejezd se závorami.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const KS = L.icon({ iconUrl: 'kabelová skříň.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const Návěstidlo = L.icon({ iconUrl: 'návěstidlo.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const Domky = L.icon({ iconUrl: 'domek.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const PN = L.icon({ iconUrl: 'PN.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const Přejezdník = L.icon({ iconUrl: 'přejezdník.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
+const Výhybka = L.icon({ iconUrl: 'výhybka.png', iconSize: [25, 25], iconAnchor: [12.5, 41], popupAnchor: [1, -34] });
+const Trpaslík = L.icon({ iconUrl: 'trpaslík.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
 
 // Definice markerů
 let markers = [];
