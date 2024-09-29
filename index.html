@@ -5,48 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Testovací mapa</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-        }
-        #map {
-            width: 100%;
-            height: 100%;
-        }
-        /* Styl pro vyhledávací pole */
-        .search-container {
-            position: absolute;
-            top: 10px;
-            left: 50%;
-            transform: translateX(-50%);
-            z-index: 1000;
-        }
-        .search-input {
-            padding: 8px;
-            width: 300px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-        }
-        .search-results {
-            position: absolute;
-            width: 300px;
-            max-height: 150px;
-            overflow-y: auto;
-            background-color: white;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            display: none;
-            z-index: 1001;
-        }
-        .search-results div {
-            padding: 8px;
-            cursor: pointer;
-        }
-        .search-results div:hover {
-            background-color: #f0f0f0;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div id="map"></div>
@@ -56,7 +15,54 @@
         <input type="text" id="search-input" class="search-input" placeholder="Vyhledat místo..." autocomplete="off">
         <div id="search-results" class="search-results"></div>
     </div>
-    
+
+    <!-- Tlačítko pro zobrazení/skrytí filtru -->
+    <div id="filter-container">
+        <button id="filter-button">
+            <img src="filter-icon.png" alt="Filtr" width="20" height="20">
+        </button>
+    </div>
+
+    <!-- Filtr ikon, který se rozbalí -->
+    <div id="icon-filter" class="hidden">
+        <label>
+            <input type="checkbox" id="přejezd" checked> 
+            <img src="přejezd bez závor.png" alt="Přejezd" class="icon-image"> Přejezd
+        </label>
+        <label>
+            <input type="checkbox" id="přejezdZ" checked> 
+            <img src="přejezd se závorami.png" alt="Přejezd se závorami" class="icon-image"> Přejezd se závorami
+        </label>
+        <label>
+            <input type="checkbox" id="KS" checked> 
+            <img src="kabelová skříň.png" alt="Kabelová skříň" class="icon-image"> Kabelová skříň
+        </label>
+        <label>
+            <input type="checkbox" id="návěstidlo" checked> 
+            <img src="návěstidlo.png" alt="Návěstidlo" class="icon-image"> Návěstidlo
+        </label>
+        <label>
+            <input type="checkbox" id="domky" checked> 
+            <img src="domek.png" alt="Domky" class="icon-image"> Domky
+        </label>
+        <label>
+            <input type="checkbox" id="PN" checked> 
+            <img src="PN.png" alt="PN" class="icon-image"> PN
+        </label>
+        <label>
+            <input type="checkbox" id="přejezdník" checked> 
+            <img src="přejezdník.png" alt="Přejezdník" class="icon-image"> Přejezdník
+        </label>
+        <label>
+            <input type="checkbox" id="výhybka" checked> 
+            <img src="výhybka.png" alt="Výhybka" class="icon-image"> Výhybka
+        </label>
+        <label>
+            <input type="checkbox" id="trpaslík" checked> 
+            <img src="trpaslík.png" alt="Trpaslík" class="icon-image"> Trpaslík
+        </label>
+    </div>
+
     <!-- Načtení knihovny Leaflet -->
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     

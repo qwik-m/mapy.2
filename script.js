@@ -152,3 +152,70 @@ function searchMarkers(query) {
 document.getElementById('search-input').addEventListener('input', function (e) {
     searchMarkers(e.target.value);
 });
+
+// Tlačítko pro zobrazení/schování filtru
+const filterButton = document.getElementById('filter-button');
+const iconFilter = document.getElementById('icon-filter');
+
+// Při kliknutí na tlačítko se filtr rozbalí/sbalí
+filterButton.addEventListener('click', function(event) {
+    iconFilter.style.display = (iconFilter.style.display === 'none' || iconFilter.style.display === '') ? 'block' : 'none';
+    event.stopPropagation(); // Zastaví šíření kliknutí, aby se zabránilo okamžitému sbalení
+});
+
+// Při kliknutí kdekoli mimo filtr se filtr schová
+document.addEventListener('click', function(event) {
+    if (!iconFilter.contains(event.target) && !filterButton.contains(event.target)) {
+        iconFilter.style.display = 'none';
+    }
+});
+
+// Funkce pro skrytí/zobrazení markerů na základě stavu filtrů
+function updateVisibleMarkers() {
+    const filterPřejezd = document.getElementById('přejezd').checked;
+    const filterPřejezdZ = document.getElementById('přejezdZ').checked;
+    const filterKS = document.getElementById('KS').checked;
+    const filterNávěstidlo = document.getElementById('návěstidlo').checked;
+    const filterDomky = document.getElementById('domky').checked;
+    const filterPN = document.getElementById('PN').checked;
+    const filterPřejezdník = document.getElementById('přejezdník').checked;
+    const filterVýhybka = document.getElementById('výhybka').checked;
+    const filterTrpaslík = document.getElementById('trpaslík').checked;
+
+    markers.forEach(({ marker, minZoom }) => {
+        const currentZoom = map.getZoom();
+        const iconType = marker.options.icon.options.iconUrl;
+
+        // Podmínky pro zobrazení/schování markerů
+        if (
+            (iconType.includes('přejezd bez závor.png') && filterPřejezd) ||
+            (iconType.includes('přejezd se závorami.png') && filterPřejezdZ) ||
+            (iconType.includes('kabelová skříň.png') && filterKS) ||
+            (iconType.includes('návěstidlo.png') && filterNávěstidlo) ||
+            (iconType.includes('domek.png') && filterDomky) ||
+            (iconType.includes('PN.png') && filterPN) ||
+            (iconType.includes('přejezdník.png') && filterPřejezdník) ||
+            (iconType.includes('výhybka.png') && filterVýhybka) ||
+            (iconType.includes('trpaslík.png') && filterTrpaslík)
+        ) {
+            // Přidat vrstvu, pokud je marker v rozsahu aktuálního zoomu
+            if (currentZoom >= minZoom && !map.hasLayer(marker)) {
+                map.addLayer(marker);
+            }
+        } else {
+            // Odebrat marker z mapy
+            if (map.hasLayer(marker)) {
+                map.removeLayer(marker);
+            }
+        }
+    });
+}
+
+// Event listener pro každý checkbox, který aktualizuje viditelnost markerů při změně
+document.querySelectorAll('#icon-filter input[type="checkbox"]').forEach(checkbox => {
+    checkbox.addEventListener('change', updateVisibleMarkers);
+});
+
+// Přidání této funkce i k eventu zoomu
+map.on('zoomend', updateMarkers);
+map.on('zoomend', updateVisibleMarkers);
