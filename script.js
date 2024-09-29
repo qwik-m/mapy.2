@@ -139,7 +139,7 @@ function searchMarkers(query) {
             const resultItem = document.createElement('div');
             resultItem.textContent = marker.name;
             resultItem.addEventListener('click', () => {
-                map.setView(marker.coords, 16);
+                map.setView(marker.coords, 20);
                 marker.marker.openPopup();
                 searchResults.style.display = 'none';
             });
