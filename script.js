@@ -84,6 +84,8 @@ Papa.parse(sheetUrl, {
     header: true,
     complete: function (results) {
         console.log(results.data); // Zobrazí načtená data v konzoli
+        console.log(`Original distance value: ${row.distance}`);
+
 
         const points = results.data.map(row => {
             if (!row.coords || !row.icon || !row.name) {
@@ -96,7 +98,7 @@ Papa.parse(sheetUrl, {
             }
 
             // Upravená logika pro kontrolu sloupce distance
-            const distance = row.distance === 'xxx' || isNaN(Number(row.distance)) ? 'Neznámá' : row.distance;
+            const distance = row.distance.trim() === 'xxx' || isNaN(Number(row.distance.trim())) ? 'Neznámá' : row.distance.trim();
 
             return {
                 coords: coordsArray,
