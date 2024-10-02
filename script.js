@@ -95,7 +95,8 @@ Papa.parse(sheetUrl, {
                 return null;
             }
 
-            const distance = isNaN(Number(row.distance)) ? 'Neznámá' : row.distance;
+            // Upravená logika pro kontrolu sloupce distance
+            const distance = row.distance === 'xxx' || isNaN(Number(row.distance)) ? 'Neznámá' : row.distance;
 
             return {
                 coords: coordsArray,
@@ -122,6 +123,7 @@ Papa.parse(sheetUrl, {
         updateMarkers();
     }
 });
+
 
 // Funkce pro vyhledávání
 function searchMarkers(query) {
