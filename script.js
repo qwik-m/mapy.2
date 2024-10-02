@@ -84,8 +84,6 @@ Papa.parse(sheetUrl, {
     header: true,
     complete: function (results) {
         console.log(results.data); // Zobrazí načtená data v konzoli
-        console.log(`Original distance value: ${row.distance}`);
-
 
         const points = results.data.map(row => {
             if (!row.coords || !row.icon || !row.name) {
@@ -97,8 +95,14 @@ Papa.parse(sheetUrl, {
                 return null;
             }
 
-            // Upravená logika pro kontrolu sloupce distance
-            const distance = row.distance.trim() === 'xxx' || isNaN(Number(row.distance.trim())) ? 'Neznámá' : row.distance.trim();
+            // Ověření a zpracování sloupce distance
+            let distance = 'Neznámá';  // Výchozí hodnota
+if (row.distance && row.distance.trim() !== '' && !isNaN(parseFloat(row.distance))) {
+    distance = row.distance.trim();  // Pokud je platná hodnota, přiřadí ji
+} else {
+    console.warn("Neplatná hodnota distance:", row.distance);  // Výpis varování pro nesprávnou hodnotu
+}
+
 
             return {
                 coords: coordsArray,
@@ -110,9 +114,10 @@ Papa.parse(sheetUrl, {
         }).filter(point => point !== null);
 
         markers = points.map(point => {
-            console.log(`Popup: ${point.name}, Distance in popup: ${point.distance}`);
             const marker = L.marker(point.coords, { icon: point.icon });
+            console.log('Point Distance:', point.distance); // Kontrola hodnoty v konzoli
             marker.bindPopup(`<b>${point.name}</b><br>Vzdálenost: ${point.distance}`);
+
             return { marker, minZoom: point.minZoom };
         });
 
