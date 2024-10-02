@@ -110,6 +110,7 @@ Papa.parse(sheetUrl, {
         }).filter(point => point !== null);
 
         markers = points.map(point => {
+            console.log(`Popup: ${point.name}, Distance in popup: ${point.distance}`);
             const marker = L.marker(point.coords, { icon: point.icon });
             marker.bindPopup(`<b>${point.name}</b><br>Vzdálenost: ${point.distance}`);
             return { marker, minZoom: point.minZoom };
