@@ -107,20 +107,34 @@ function processSheet(sheetUrl) {
 
                 let trackNumber = row.trackNumber && row.trackNumber.trim() !== '' ? row.trackNumber.trim() : 'Neznámá';
 
+                // Zde je dynamicky vytvořený odkaz na Mapy.cz podle souřadnic s pinem
+                const mapyCzLink = `https://mapy.cz/zakladni?x=${coordsArray[1]}&y=${coordsArray[0]}&z=17&source=coor&id=${coordsArray[1]},${coordsArray[0]}`;
+
                 return {
                     coords: coordsArray,
                     name: row.name,
                     distance: distance,
                     icon: getIcon(row.icon),
                     minZoom: Number(row.minZoom) || 10,
-                    trackNumber: trackNumber
+                    trackNumber: trackNumber,
+                    mapyCzLink: mapyCzLink // Přidáme odkaz na Mapy.cz s pinem
                 };
             }).filter(point => point !== null);
 
-            // Spojení markerů z více listů
             markers = markers.concat(points.map(point => {
                 const marker = L.marker(point.coords, { icon: point.icon });
-                marker.bindPopup(`<b>${point.name}</b><br>Vzdálenost: ${point.distance}<br>Číslo trati: ${point.trackNumber}`);
+                
+                // Zde je přidaný HTML obsah pop-upu s ikonou odkazu na Mapy.cz
+                const popupContent = `
+                    <b>${point.name}</b><br>
+                    Vzdálenost: ${point.distance}<br>
+                    Číslo trati: ${point.trackNumber}<br>
+                    <a href="${point.mapyCzLink}" target="_blank" title="Zobrazit na Mapy.cz">
+                        <img src="link-icon.png" alt="Odkaz na Mapy.cz" style="width:16px;height:16px;">
+                    </a>
+                `;
+                
+                marker.bindPopup(popupContent);
                 return { marker, minZoom: point.minZoom };
             }));
 
@@ -137,6 +151,7 @@ function processSheet(sheetUrl) {
         }
     });
 }
+
 
 // Načíst jednotlivé listy
 processSheet(sheetUrl1);
