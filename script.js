@@ -75,65 +75,73 @@ function updateMarkers() {
 }
 
 // Načtení CSV souboru z Google Sheets
-const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT5mnhf0b1ivo8e8eFUAtp71M9jTqG3xpl8GLK9KRgwNI-El2sy5LqfDrULStkL7FiOXOXPuWbz4lxZ/pub?output=csv';
+// URL pro jednotlivé listy
+const sheetUrl1 = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT5mnhf0b1ivo8e8eFUAtp71M9jTqG3xpl8GLK9KRgwNI-El2sy5LqfDrULStkL7FiOXOXPuWbz4lxZ/pub?gid=337819404&single=true&output=csv';
+const sheetUrl2 = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT5mnhf0b1ivo8e8eFUAtp71M9jTqG3xpl8GLK9KRgwNI-El2sy5LqfDrULStkL7FiOXOXPuWbz4lxZ/pub?gid=946430603&single=true&output=csv';
+// Přidej více URL dle potřeby
 
-let allMarkers = []; // Pro uložení všech markerů pro vyhledávání
+let allMarkers = [];
 
-Papa.parse(sheetUrl, {
-    download: true,
-    header: true,
-    complete: function (results) {
-        console.log(results.data); // Zobrazí načtená data v konzoli
+// Funkce pro načtení a zpracování dat z jednotlivého listu
+function processSheet(sheetUrl) {
+    Papa.parse(sheetUrl, {
+        download: true,
+        header: true,
+        complete: function (results) {
+            console.log(results.data); 
 
-        const points = results.data.map(row => {
-            if (!row.coords || !row.icon || !row.name) {
-                return null;
-            }
-        
-            const coordsArray = cleanCoordinates(row.coords).split(',').map(Number);
-            if (coordsArray.length !== 2 || isNaN(coordsArray[0]) || isNaN(coordsArray[1])) {
-                return null;
-            }
-        
-            // Zpracování sloupce distance
-            let distance = 'Neznámá';
-            if (row.distance && row.distance.trim() !== '' && !isNaN(parseFloat(row.distance))) {
-                distance = row.distance.trim();
-            } else {
-                console.warn("Neplatná hodnota distance:", row.distance);
-            }
-        
-            // Zpracování sloupce trackNumber
-            let trackNumber = row.trackNumber && row.trackNumber.trim() !== '' ? row.trackNumber.trim() : 'Neznámá';
-        
-            return {
-                coords: coordsArray,
-                name: row.name,
-                distance: distance,
-                icon: getIcon(row.icon),
-                minZoom: Number(row.minZoom) || 10,
-                trackNumber: trackNumber
-            };
-        }).filter(point => point !== null);
-        
+            const points = results.data.map(row => {
+                if (!row.coords || !row.icon || !row.name) {
+                    return null;
+                }
 
-        markers = points.map(point => {
-            const marker = L.marker(point.coords, { icon: point.icon });
-            marker.bindPopup(`<b>${point.name}</b><br>Vzdálenost: ${point.distance}<br>Číslo trati: ${point.trackNumber}`);
+                const coordsArray = cleanCoordinates(row.coords).split(',').map(Number);
+                if (coordsArray.length !== 2 || isNaN(coordsArray[0]) || isNaN(coordsArray[1])) {
+                    return null;
+                }
 
-            return { marker, minZoom: point.minZoom };
-        });
+                let distance = 'Neznámá';
+                if (row.distance && !isNaN(parseFloat(row.distance))) {
+                    distance = row.distance.trim();
+                }
 
-        allMarkers = points.map(point => ({
-            coords: point.coords,
-            name: point.name,
-            marker: L.marker(point.coords, { icon: point.icon })
-        }));
+                let trackNumber = row.trackNumber && row.trackNumber.trim() !== '' ? row.trackNumber.trim() : 'Neznámá';
 
-        map.on('zoomend', updateMarkers);
-        updateMarkers();
-    }
-});
+                return {
+                    coords: coordsArray,
+                    name: row.name,
+                    distance: distance,
+                    icon: getIcon(row.icon),
+                    minZoom: Number(row.minZoom) || 10,
+                    trackNumber: trackNumber
+                };
+            }).filter(point => point !== null);
+
+            // Spojení markerů z více listů
+            markers = markers.concat(points.map(point => {
+                const marker = L.marker(point.coords, { icon: point.icon });
+                marker.bindPopup(`<b>${point.name}</b><br>Vzdálenost: ${point.distance}<br>Číslo trati: ${point.trackNumber}`);
+                return { marker, minZoom: point.minZoom };
+            }));
+
+            // Spojení všech markerů do jednoho pole
+            allMarkers = allMarkers.concat(points.map(point => ({
+                coords: point.coords,
+                name: point.name,
+                marker: L.marker(point.coords, { icon: point.icon })
+            })));
+
+            // Aktualizace markerů na základě zoomu
+            map.on('zoomend', updateMarkers);
+            updateMarkers();
+        }
+    });
+}
+
+// Načíst jednotlivé listy
+processSheet(sheetUrl1);
+processSheet(sheetUrl2);
+// Přidej více volání processSheet(sheetUrlX) dle potřeby
 
 // Funkce pro vyhledávání
 function searchMarkers(query) {
