@@ -15,7 +15,7 @@ const Návěstidlo = L.icon({ iconUrl: 'návěstidlo.png', iconSize: [25, 25], i
 const Domky = L.icon({ iconUrl: 'domek.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
 const PN = L.icon({ iconUrl: 'PN.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
 const Přejezdník = L.icon({ iconUrl: 'přejezdník.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
-const Výhybka = L.icon({ iconUrl: 'výhybka.png', iconSize: [25, 25], iconAnchor: [12.5, 41], popupAnchor: [1, -34] });
+const Výhybka = L.icon({ iconUrl: 'výhybka.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
 const Trpaslík = L.icon({ iconUrl: 'trpaslík.png', iconSize: [25, 25], iconAnchor: [12.5, 25], popupAnchor: [1, -34] });
 
 // Definice markerů
