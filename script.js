@@ -207,15 +207,15 @@ document.addEventListener('click', function(event) {
 
 // Funkce pro skrytí/zobrazení markerů na základě stavu filtrů
 function updateVisibleMarkers() {
-    const filterPřejezd = document.getElementById('filter-přejezd').checked;
-    const filterPřejezdZ = document.getElementById('filter-přejezdZ').checked;
-    const filterKS = document.getElementById('filter-KS').checked;
-    const filterNávěstidlo = document.getElementById('filter-návěstidlo').checked;
-    const filterDomky = document.getElementById('filter-domky').checked;
-    const filterPN = document.getElementById('filter-PN').checked;
-    const filterPřejezdník = document.getElementById('filter-přejezdník').checked;
-    const filterVýhybka = document.getElementById('filter-výhybka').checked;
-    const filterTrpaslík = document.getElementById('filter-trpaslík').checked;
+    const filterPřejezd = document.getElementById('přejezd').checked;
+    const filterPřejezdZ = document.getElementById('přejezdZ').checked;
+    const filterKS = document.getElementById('KS').checked;
+    const filterNávěstidlo = document.getElementById('návěstidlo').checked;
+    const filterDomky = document.getElementById('domky').checked;
+    const filterPN = document.getElementById('PN').checked;
+    const filterPřejezdník = document.getElementById('přejezdník').checked;
+    const filterVýhybka = document.getElementById('výhybka').checked;
+    const filterTrpaslík = document.getElementById('trpaslík').checked;
 
     markers.forEach(({ marker }) => {
         const iconUrl = marker.options.icon.options.iconUrl;
@@ -240,12 +240,12 @@ function updateVisibleMarkers() {
 }
 
 // Event listenery pro každý checkbox
-document.getElementById('filter-přejezd').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-přejezdZ').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-KS').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-návěstidlo').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-domky').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-PN').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-přejezdník').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-výhybka').addEventListener('change', updateVisibleMarkers);
-document.getElementById('filter-trpaslík').addEventListener('change', updateVisibleMarkers);
+document.getElementById('přejezd').addEventListener('change', updateVisibleMarkers);
+document.getElementById('přejezdZ').addEventListener('change', updateVisibleMarkers);
+document.getElementById('KS').addEventListener('change', updateVisibleMarkers);
+document.getElementById('návěstidlo').addEventListener('change', updateVisibleMarkers);
+document.getElementById('domky').addEventListener('change', updateVisibleMarkers);
+document.getElementById('PN').addEventListener('change', updateVisibleMarkers);
+document.getElementById('přejezdník').addEventListener('change', updateVisibleMarkers);
+document.getElementById('výhybka').addEventListener('change', updateVisibleMarkers);
+document.getElementById('trpaslík').addEventListener('change', updateVisibleMarkers);
