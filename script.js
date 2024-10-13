@@ -80,78 +80,70 @@ const sheetUrl1 = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT5mnhf0b1ivo
 const sheetUrl2 = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT5mnhf0b1ivo8e8eFUAtp71M9jTqG3xpl8GLK9KRgwNI-El2sy5LqfDrULStkL7FiOXOXPuWbz4lxZ/pub?gid=946430603&single=true&output=csv';
 // Přidej více URL dle potřeby
 
-let allMarkers = [];
+let allPoints = [];  // Pro všechny body z obou souborů
 
-// Funkce pro načtení a zpracování dat z jednotlivého listu
-// Funkce pro načtení a zpracování dat z jednotlivého listu
+// Funkce pro zpracování každého souboru CSV
 function processSheet(sheetUrl) {
     Papa.parse(sheetUrl, {
         download: true,
         header: true,
         complete: function (results) {
-            console.log(results.data); 
-
             const points = results.data.map(row => {
+                console.log("minZoom pro bod:", row.minZoom);  // Přidej výpis tady
+    
                 if (!row.coords || !row.icon || !row.name) {
                     return null;
                 }
-
+    
                 const coordsArray = cleanCoordinates(row.coords).split(',').map(Number);
                 if (coordsArray.length !== 2 || isNaN(coordsArray[0]) || isNaN(coordsArray[1])) {
                     return null;
                 }
-
+    
                 let distance = 'Neznámá';
                 if (row.distance && !isNaN(parseFloat(row.distance))) {
                     distance = row.distance.trim();
                 }
-
+    
                 let trackNumber = row.trackNumber && row.trackNumber.trim() !== '' ? row.trackNumber.trim() : 'Neznámá';
-
+    
                 const mapyCzLink = `https://mapy.cz/zakladni?x=${coordsArray[1]}&y=${coordsArray[0]}&z=17&source=coor&id=${coordsArray[1]},${coordsArray[0]}`;
-
+    
                 return {
                     coords: coordsArray,
                     name: row.name,
-                    distance: distance,   // Přidáme kilometráž
-                    trackNumber: trackNumber,  // Přidáme číslo trati
+                    distance: distance,
+                    trackNumber: trackNumber,
                     icon: getIcon(row.icon),
-                    minZoom: Number(row.minZoom) || 10,
+                    minZoom: Number(row.minZoom) || 10,  // Načtení minZoom z CSV
                     mapyCzLink: mapyCzLink
                 };
             }).filter(point => point !== null);
-
-            markers = markers.concat(points.map(point => {
+    
+            allPoints = allPoints.concat(points);
+    
+            points.forEach(point => {
                 const marker = L.marker(point.coords, { icon: point.icon });
-
-                const popupContent = `
+                marker.bindPopup(`
                     <b>${point.name}</b><br>
                     Vzdálenost: ${point.distance}<br>
                     Číslo trati: ${point.trackNumber}<br>
                     <a href="${point.mapyCzLink}" target="_blank" title="Zobrazit na Mapy.cz">
                         <img src="link-icon.png" alt="Odkaz na Mapy.cz" style="width:16px;height:16px;">
                     </a>
-                `;
-
-                marker.bindPopup(popupContent);
-                return { marker, minZoom: point.minZoom };
-            }));
-
-            allMarkers = allMarkers.concat(points.map(point => ({
-                coords: point.coords,
-                name: point.name,
-                distance: point.distance,   // Přidáme kilometráž
-                trackNumber: point.trackNumber, // Přidáme číslo trati
-                marker: L.marker(point.coords, { icon: point.icon })
-            })));
-
+                `);
+                
+                point.marker = marker;
+                markers.push({ marker: marker, minZoom: point.minZoom });
+            });
+    
             map.on('zoomend', updateMarkers);
             updateMarkers();
         }
     });
 }
 
-// Načíst jednotlivé listy
+// Načteme oba CSV soubory
 processSheet(sheetUrl1);
 processSheet(sheetUrl2);
 // Přidej více volání processSheet(sheetUrlX) dle potřeby
@@ -164,49 +156,44 @@ function searchMarkers(query) {
 
     if (query.length === 0) return;
 
-    const filteredMarkers = allMarkers.filter(marker => marker.name.toLowerCase().includes(query.toLowerCase()));
+    // Vyfiltruje body podle dotazu (query)
+    const filteredMarkers = allPoints.filter(point => point.name.toLowerCase().includes(query.toLowerCase()));
 
     if (filteredMarkers.length > 0) {
         searchResults.style.display = 'block';
-        filteredMarkers.forEach(marker => {
+
+        // Pro každý nalezený bod vytvoříme výsledek
+        filteredMarkers.forEach(point => {
             const resultItem = document.createElement('div');
 
             // Zobrazení jména, čísla trati a kilometráže
             resultItem.innerHTML = `
-                <b>${marker.name}</b><br>
-                Číslo trati: ${marker.trackNumber}<br>
-                Vzdálenost: ${marker.distance}
+                <b>${point.name}</b><br>
+                Číslo trati: ${point.trackNumber}<br>
+                Vzdálenost: ${point.distance}
             `;
 
             resultItem.addEventListener('click', () => {
-                // Vycentrování mapy na marker
-                map.setView(marker.coords, 20);
+                // Vycentrování mapy na souřadnice bodu
+                map.setView(point.coords, 20);
 
                 // Zavřít jakékoli otevřené pop-upy
                 map.closePopup();
 
-                // Ověření, že marker a jeho pop-up jsou správně definované
-                console.log("Marker nalezen:", marker);
-                console.log("Marker má pop-up:", marker.marker.getPopup());
-
-                // Pokus o otevření pop-upu
-                if (marker.marker.getPopup()) {
-                    marker.marker.openPopup();
+                // Otevření pop-upu daného markeru
+                if (point.marker.getPopup()) {
+                    point.marker.openPopup();
                 } else {
                     console.error("Pop-up pro tento marker neexistuje.");
                 }
 
-                searchResults.style.display = 'none';
+                searchResults.style.display = 'none'; // Skryj výsledky po kliknutí
             });
 
             searchResults.appendChild(resultItem);
         });
     }
 }
-
-
-
-
 
 // Event listener pro změny v searchbaru
 document.getElementById('search-input').addEventListener('input', function (e) {
