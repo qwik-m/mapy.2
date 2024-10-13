@@ -20,38 +20,55 @@ html, body {
     height: 100%;
 }
 
+.leaflet-control-zoom {
+    border: 1px solid transparent; /* Průhledné ohraničení */
+    background-color: rgba(255, 255, 255, 0.5); /* Průhledné pozadí */
+}
+
 /* Styl pro vyhledávací pole */
 .search-container {
     position: absolute;
     top: 10px;
-    left: 50%;
+    left: 52.5%;
     transform: translateX(-50%);
     z-index: 1000;
 }
+
 .search-input {
     padding: 8px;
     width: 300px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
+    /* Původní styl */
 }
+
+/* Přidáno pro zachování stejného stylu při zaměření */
+.search-input:focus {
+    border: 1px solid #ccc; /* Zachování stejného stylu při kliknutí */
+    outline: none; /* Odstranění zvýraznění */
+}
+
 .search-results {
     position: absolute;
-    width: 300px;
+    width: 315px;
     max-height: 150px;
     overflow-y: auto;
     background-color: white;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     border-radius: 5px;
     display: none;
     z-index: 1001;
 }
+
 .search-results div {
     padding: 8px;
     cursor: pointer;
 }
+
 .search-results div:hover {
     background-color: #f0f0f0;
 }
+
 
 /* Styl pro tlačítko filtru */
 #filter-container {
@@ -64,7 +81,7 @@ html, body {
 /* Styl pro tlačítko */
 #filter-button {
     background-color: white;
-    border: 2px solid black;
+    border: 2px solid #ccc;
     border-radius: 5px;
     cursor: pointer;
     z-index: 10001;
@@ -81,7 +98,7 @@ html, body {
     top: 90px;
     left: 10px;
     background-color: white;
-    border: 1px solid black;
+    border: 2px solid #ccc;
     border-radius: 5px;
     padding: 10px;
     display: none;

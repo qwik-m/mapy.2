@@ -200,6 +200,17 @@ document.getElementById('search-input').addEventListener('input', function (e) {
     searchMarkers(e.target.value);
 });
 
+// Event listener pro kliknutí mimo vyhledávací pole a výsledky
+document.addEventListener('click', function (e) {
+    const searchResults = document.getElementById('search-results');
+    const searchInput = document.getElementById('search-input');
+
+    // Pokud není kliknuto na výsledky vyhledávání ani na vyhledávací pole, skryje se výsledek
+    if (!searchResults.contains(e.target) && e.target !== searchInput) {
+        searchResults.style.display = 'none';
+    }
+});
+
 // Tlačítko pro zobrazení/schování filtru
 const filterButton = document.getElementById('filter-button');
 const iconFilter = document.getElementById('icon-filter');
